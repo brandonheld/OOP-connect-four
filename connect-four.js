@@ -106,7 +106,7 @@ window.addEventListener("DOMContentLoaded", event => {
 
         game.playInColumn(columnIndex);
         updateUi();
-        console.log(game.columns)
+        
     })
 
 });
