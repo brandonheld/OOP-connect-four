@@ -1,5 +1,3 @@
-import {Column} from "./column.js"
-
 export class RowWinInspector{
     constructor(columns){
         this.columns = columns;
